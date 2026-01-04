@@ -26,10 +26,11 @@ C#-en garatutako programa, AllSecurity enpresako bezeroen kontuak eta pasahitzak
 - .lenght, .Count, .split
 - Getter/Setter
 
-##POO
+## POO
 - Modularitatea
 
 ## Egoera
 Proiektu hau garapenean dago.
 
 Iraitz Aristi SMR2D
+
