@@ -1,0 +1,14 @@
+C:\Users\irait\Documents\C#\Proiektua\bin\Debug\net9.0\Proiektua.exe
+C:\Users\irait\Documents\C#\Proiektua\bin\Debug\net9.0\Proiektua.deps.json
+C:\Users\irait\Documents\C#\Proiektua\bin\Debug\net9.0\Proiektua.runtimeconfig.json
+C:\Users\irait\Documents\C#\Proiektua\bin\Debug\net9.0\Proiektua.dll
+C:\Users\irait\Documents\C#\Proiektua\bin\Debug\net9.0\Proiektua.pdb
+C:\Users\irait\Documents\C#\Proiektua\obj\Debug\net9.0\Proiektua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irait\Documents\C#\Proiektua\obj\Debug\net9.0\Proiektua.AssemblyInfoInputs.cache
+C:\Users\irait\Documents\C#\Proiektua\obj\Debug\net9.0\Proiektua.AssemblyInfo.cs
+C:\Users\irait\Documents\C#\Proiektua\obj\Debug\net9.0\Proiektua.csproj.CoreCompileInputs.cache
+C:\Users\irait\Documents\C#\Proiektua\obj\Debug\net9.0\Proiektua.dll
+C:\Users\irait\Documents\C#\Proiektua\obj\Debug\net9.0\refint\Proiektua.dll
+C:\Users\irait\Documents\C#\Proiektua\obj\Debug\net9.0\Proiektua.pdb
+C:\Users\irait\Documents\C#\Proiektua\obj\Debug\net9.0\Proiektua.genruntimeconfig.cache
+C:\Users\irait\Documents\C#\Proiektua\obj\Debug\net9.0\ref\Proiektua.dll
