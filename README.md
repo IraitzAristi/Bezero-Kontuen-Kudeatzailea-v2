@@ -25,6 +25,7 @@ C#-en garatutako programa, AllSecurity enpresako bezeroen kontuak eta pasahitzak
 - Sistemaren Kudeaketa (fitxategiak kudeatu)
 - .lenght, .Count, .split
 - Getter/Setter
+-  Liburutegiak
 
 ## POO
 - Modularitatea
